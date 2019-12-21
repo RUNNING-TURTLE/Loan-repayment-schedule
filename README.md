@@ -17,6 +17,6 @@ Program will use the following information (with examples):
   - Inflation (2%) 
 
 The homebuyer can use the program to answer the following questions: 
-1-	When will the mortgage be fully repaid? 
-2-	What minimum initial monthly deposit into the sinking fund is required in order to fully repay the mortgage by a given target date (for example, after 20 years)? 
-3-	What is the highest renewal mortgage rate for which the homebuyer would still be able to fully repay the loan by the end of the amortization period by making the same monthly payments and using the side fund to make annual lump sum prepayments?
+  - When will the mortgage be fully repaid? 
+  - What minimum initial monthly deposit into the sinking fund is required in order to fully repay the mortgage by a given target date (for example, after 20 years)? 
+  - What is the highest renewal mortgage rate for which the homebuyer would still be able to fully repay the loan by the end of the amortization period by making the same monthly payments and using the side fund to make annual lump sum prepayments?
